@@ -1,16 +1,13 @@
-## Hi there 👋
+## Developpeur Web Full Stack | En formation 
 
-<!--
-**cheapgriffy/cheapgriffy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionné par la Tech, Currieux du *"Pourquoi ?"*.
 
-Here are some ideas to get you started:
+- 🔭 J'etudie a l'organisme **[Alaji](https://www.alaji.fr/)**.
+- 🌱 J'apprends intensément **React** et **Express** **NodeJS** **MySQL**.
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----------------------
+### Stack technique
+![](https://skillicons.dev/icons?i=html,css,javascript,tailwindcss,sass)
+### Apprentisage en cours
+![](https://skillicons.dev/icons?i=nodejs,express,mysql,react)
