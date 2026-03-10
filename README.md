@@ -13,4 +13,5 @@ Passionné par la tech, Curieux du *"Pourquoi du Comment ?"*.
 ![](https://skillicons.dev/icons?i=nodejs,express,mysql,react)
 
 ### Me contacter
-![Linkedin](https://www.linkedin.com/in/tim%C3%A9o-felix-3a5a27397/)
+[![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tim%C3%A9o-felix-3a5a27397/)
+[![](https://skillicons.dev/icons?i=discord)](https://discord.com/users/584096691473350657)
