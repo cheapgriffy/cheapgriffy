@@ -1,7 +1,8 @@
 ## Developpeur Web Full Stack | En formation 
 
-Passionné par la tech, Curieux du *"Pourquoi du Comment ?"*.
+**Dissèque la tech pour la maîtriser de fond en comble.**
 
+Curieux de nature
 - 🔭 J'étudie a l'organisme **[Alaji](https://www.alaji.fr/)**.
 - 🌱 J'apprends intensément **React** et **Express** **NodeJS** **MySQL**.
 <br>
