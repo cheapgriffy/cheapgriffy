@@ -9,9 +9,9 @@ Curieux de nature
 
 ----------------------
 ### Stack technique
-![](https://skillicons.dev/icons?i=html,css,javascript,tailwindcss,sass)
+![](https://skillicons.dev/icons?i=html,css,javascript,tailwindcss,sass,mysql,express&perline=4)
 ### Apprentissage en cours
-![](https://skillicons.dev/icons?i=nodejs,express,mysql,react,vue)
+![](https://skillicons.dev/icons?i=nodejs,react,vue)
 
 ### Me contacter
 [![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tim%C3%A9o-felix-3a5a27397/)
