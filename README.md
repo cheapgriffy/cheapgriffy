@@ -11,7 +11,7 @@ Curieux de nature
 ### Stack technique
 ![](https://skillicons.dev/icons?i=html,css,javascript,tailwindcss,sass)
 ### Apprentissage en cours
-![](https://skillicons.dev/icons?i=nodejs,express,mysql,react)
+![](https://skillicons.dev/icons?i=nodejs,express,mysql,react,vue)
 
 ### Me contacter
 [![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tim%C3%A9o-felix-3a5a27397/)
