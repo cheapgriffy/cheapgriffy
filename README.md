@@ -1,4 +1,3 @@
-
 <h1 align="center"><img src="https://files.cheapgriffy.fr/files/shr/Direct_Links/funnies.webp?raw" width="100px"> Hey, Timéo - Griffy 👋</h1>
 <h4 align="center" color="gray">Developpeur en devenir</h4>
 
@@ -23,7 +22,21 @@
   <img src="https://skillicons.dev/icons?i=nodejs,react,vue">
 </p>
 
+---
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=cheapgriffy&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" height="150" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cheapgriffy&theme=tokyonight&hide_border=false&border_radius=10" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheapgriffy&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" height="150" />
+</p>
 
-### Me contacter
-[![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tim%C3%A9o-felix-3a5a27397/)
-[![](https://skillicons.dev/icons?i=discord)](https://discord.com/users/584096691473350657)
+<h3 align="center">Me contacter</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/tim%C3%A9o-felix-3a5a27397/">
+    <img src="https://skillicons.dev/icons?i=linkedin">
+  </a>
+  <a href="https://discord.com/users/584096691473350657">
+    <img src="https://skillicons.dev/icons?i=discord">
+  </a>
+</p>
+
+
