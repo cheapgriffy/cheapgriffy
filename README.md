@@ -1,17 +1,28 @@
-## Developpeur Web Full Stack | En formation 
 
-**Dissèque la tech pour la maîtriser de fond en comble.**
+<h1 align="center">👋 Hey, Timéo - Griffy <img src="https://files.cheapgriffy.fr/files/shr/Direct_Links/funnies.png?raw" width="100px"></h1>
+<h4 align="center" color="gray">Developpeur en devenir</h4>
 
-Curieux de nature
+<p align="center">
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=outfit&weight=600&duration=2700&pause=2000&color=B7BCC0&center=true&vCenter=true&width=600&lines=En+formation+Developpeur+Web+a+l'Alaji+%F0%9F%92%BC;Passionn%C3%A9%2C+et+intrigu%C3%A9+par+tout;Excalidraw+c'est+la+vie%2C+pour+les+schema;Adore+apprendre%2C+et+partager+ses+connaissances;Meurt+d'envie+de+commencer+des+projets;Pourquoi+payer+quand+on+peut+le+faire+soi+m%C3%AAme" alt="Typing SVG" /></a>
+</p>
+
+---
+### Info a mon sujet
 - 🔭 J'étudie a l'organisme **[Alaji](https://www.alaji.fr/)**.
-- 🌱 J'apprends intensément **React** et **Express** **NodeJS** **MySQL**.
-<br>
+- 💡 Faciné de la tech, et de comment les choses sont fait.
+- ✏️ Dessine numériquement, inspire a inspirer.
 
-----------------------
-### Stack technique
-![](https://skillicons.dev/icons?i=html,css,javascript,tailwindcss,sass,mysql,express&perline=4)
-### Apprentissage en cours
-![](https://skillicons.dev/icons?i=nodejs,react,vue)
+---
+<h3 align="center"> Outils de prédilection</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,html,css,javascript,tailwindcss,mysql,express,figma">
+</p>
+
+<h3 align="center">Apprentissage en cours</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,react,vue">
+</p>
+
 
 ### Me contacter
 [![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tim%C3%A9o-felix-3a5a27397/)
