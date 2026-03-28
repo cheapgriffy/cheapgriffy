@@ -2,7 +2,7 @@
 <h4 align="center" color="gray">Developpeur en devenir</h4>
 
 <p align="center">
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=outfit&weight=600&duration=2700&pause=2000&color=B7BCC0&center=true&vCenter=true&width=600&lines=En+formation+Developpeur+Web+a+l%27Alaji+%F0%9F%92%BC;Passionn%C3%A9%2C+et+intrigu%C3%A9+par+tout+ce+qui+touche+a+la+tech;Excalidraw+c%27est+la+vie%2C+pour+les+schema;Adore+apprendre%2C+et+partager+ses+connaissances;Meurt+d%27envie+de+commencer+des+projets;Pourquoi+payer+quand+on+peut+le+faire+soi+m%C3%AAme" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=outfit&weight=600&duration=2700&pause=2000&color=B7BCC0&center=true&vCenter=true&width=600&lines=En+formation+Developpeur+Web+a+l%27Alaji+%F0%9F%92%BC;Passionn%C3%A9%2C+par+tout+ce+qui+touche+a+la+tech;Excalidraw+c%27est+la+vie%2C+pour+les+schemas;Adore+apprendre%2C+et+partager+ses+connaissances;Meurt+d%27envie+de+commencer+des+projets;Pourquoi+payer+quand+on+peut+le+faire+soi+m%C3%AAme" alt="Typing SVG" /></a>
 </p>
 
 ---
