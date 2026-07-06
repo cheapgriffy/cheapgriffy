@@ -14,12 +14,12 @@
 ---
 <h3 align="center"> Outils de prédilection</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,html,css,javascript,tailwindcss,mysql,express,figma">
+<img src="https://skillicons.dev/icons?i=git,html,css,javascript,tailwindcss,mysql,express,figma,nodejs">
 </p>
 
 <h3 align="center">Apprentissage en cours</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,vue">
+  <img src="https://skillicons.dev/icons?i=react,vue">
 </p>
 
 ---
