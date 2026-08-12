@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://files.cheapgriffy.com/files/shr/Direct_Links/funnies.webp?raw" width="100px"> Hey, Timéo - Griffy 👋</h1>
+<h1 align="center" ><img src="https://files.cheapgriffy.com/files/shr/Direct_Links/waving-hi.gif?raw" width="100px"> Hey, Timéo - Griffy 👋</h1>
 <h4 align="center" color="gray">Developpeur en devenir</h4>
 
 <p align="center">
