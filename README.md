@@ -7,7 +7,7 @@
 
 ---
 ### Info a mon sujet
-- 🔭 J'étudie a l'organisme **[Alaji](https://www.alaji.fr/)**.
+- 🔭 En recherche d'alternance pour intégrer Epitech
 - 💡 Faciné de la tech, et de comment les choses sont fait.
 - ✏️ Dessine numériquement, inspire a inspirer.
 
