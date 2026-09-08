@@ -1,20 +1,20 @@
-<h1 align="center" ><img src="https://files.cheapgriffy.com/files/shr/Direct_Links/waving-hi.gif?raw" width="100px"> Hey, Timéo - Griffy 👋</h1>
-<h4 align="center" color="gray">Developpeur en devenir</h4>
+<h1 align="center" ><img src="https://files.cheapgriffy.com/files/shr/Direct_Links/waving-hi.gif?raw" width="100px"> Hey 👋 Griffy's here</h1>
+<h4 align="center" color="gray">Trainee Developper</h4>
 
 <p align="center">
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=outfit&weight=600&duration=2700&pause=2000&color=B7BCC0&center=true&vCenter=true&width=600&lines=En+formation+Developpeur+Web+a+l%27Alaji+%F0%9F%92%BC;Passionn%C3%A9%2C+par+tout+ce+qui+touche+a+la+tech;Excalidraw+c%27est+la+vie%2C+pour+les+schemas;Adore+apprendre%2C+et+partager+ses+connaissances;Meurt+d%27envie+de+commencer+des+projets;Pourquoi+payer+quand+on+peut+le+faire+soi+m%C3%AAme" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&duration=3000&pause=1500&color=F7F7F7&width=550&lines=Heeey%2C+Welcome+to+my+profile+!;I+build+things+for+myself%2C+and+share+it+around+here;I+yearn+for+big+collaborative+project%2C;Mainly+focus+on+QoL%2C+fixing+specific+problems;Host+things+on+my+hardware%2C+Learning+homelabing;Nerd+and+Weird+kid%2C+came+from+modding+and+gamedev;Draw+on+my+free+time" alt="Typing SVG" /></a>
 </p>
 
 ---
-### Info a mon sujet
-- 🔭 En recherche d'alternance pour intégrer Epitech
-- 💡 Faciné de la tech, et de comment les choses sont fait.
-- ✏️ Dessine numériquement, inspire a inspirer.
+### Things about me
+- Likes to tweak around, know every part of a system
+- Calm and highly concerned about being easy to live
+- Using hell ton of FOSS apps, selfhosting everything i can
 
 ---
-<h3 align="center"> Outils de prédilection</h3>
+<h3 align="center"> Familliar tools</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,html,css,javascript,tailwindcss,mysql,express,figma,nodejs">
+<img src="https://skillicons.dev/icons?i=git,html,css,javascript,tailwindcss,mysql,express,figma,nodejs,vue">
 </p>
 
 <h3 align="center">Apprentissage en cours</h3>
@@ -29,7 +29,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheapgriffy&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" height="150" />
 </p>
 
-<h3 align="center">Me contacter</h3>
+<h3 align="center">My socials</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/tim%C3%A9o-felix-3a5a27397/">
     <img src="https://skillicons.dev/icons?i=linkedin">
